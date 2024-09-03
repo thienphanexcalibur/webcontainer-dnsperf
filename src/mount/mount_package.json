@@ -1,0 +1,10 @@
+{
+  "name": "example-app",
+  "type": "module",
+  "dependencies": {
+		"dns-query": "^0.11.2"
+  },
+  "scripts": {
+    "start": "node bench.js"
+  }
+}
